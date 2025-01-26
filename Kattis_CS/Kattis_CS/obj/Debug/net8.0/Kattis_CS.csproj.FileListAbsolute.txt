@@ -12,3 +12,4 @@
 /Users/oliverlaursen/Documents/GitHub/SpareTimeFun/Kattis_CS/Kattis_CS/obj/Debug/net8.0/Kattis_CS.pdb
 /Users/oliverlaursen/Documents/GitHub/SpareTimeFun/Kattis_CS/Kattis_CS/obj/Debug/net8.0/Kattis_CS.genruntimeconfig.cache
 /Users/oliverlaursen/Documents/GitHub/SpareTimeFun/Kattis_CS/Kattis_CS/obj/Debug/net8.0/ref/Kattis_CS.dll
+/Users/oliverlaursen/Documents/GitHub/SpareTimeFun/Kattis_CS/Kattis_CS/obj/Debug/net8.0/Kattis_CS.sourcelink.json

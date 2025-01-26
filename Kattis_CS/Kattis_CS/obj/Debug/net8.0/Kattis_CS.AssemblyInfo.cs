@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kattis_CS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d0e8a6b6908a39a1d0b848235dd60b55c39389")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kattis_CS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kattis_CS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
