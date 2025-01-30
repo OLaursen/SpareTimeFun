@@ -2,7 +2,7 @@ namespace Kattis_CS;
 using System;
 public class AboveAverage
 {
-    public static void Main(String[] args)
+    public static void Aboveaverage(String[] args)
     {
         var tests = Int32.Parse(Console.ReadLine()!);
 
