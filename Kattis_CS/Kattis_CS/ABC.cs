@@ -7,7 +7,7 @@ using  System.Collections.Generic;
 
 public class Abc
 {
-    public static void Main(string[] args)
+    public static void Aabbcc(string[] args)
     {
         var parsedNumbers = new List<int>();
         var numbers = Console.ReadLine()!.Split(" ");
