@@ -11,3 +11,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Bin and object folders
+/Kattis_CS/Kattis_CS/obj
+/Kattis_CS/Kattis_CS/bin

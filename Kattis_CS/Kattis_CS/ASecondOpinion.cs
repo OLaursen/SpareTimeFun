@@ -2,7 +2,7 @@ namespace Kattis_CS;
 using System;
 public class ASecondOpinion
 {
-    static void Main(string[] args)
+    static void Aso(string[] args)
     {
         var seconds = Int32.Parse(Console.ReadLine()!);
         var h = seconds / (60 * 60);
