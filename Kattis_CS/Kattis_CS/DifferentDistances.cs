@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 public class DifferentDistances
 {
-  public static void Main(string[] args)
+  public static void Dd(string[] args)
   {
     var results = new List<String>();
     while (true)
